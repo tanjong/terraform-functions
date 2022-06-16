@@ -1,0 +1,5 @@
+coalesce("a", "b")
+
+coalesce("1", "hello")
+
+coalesce("dev", "prod", "mkt")

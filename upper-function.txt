@@ -1,0 +1,3 @@
+upper("hello") : make everything upper case
+
+upper("devopslab")
