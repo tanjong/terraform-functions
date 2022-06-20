@@ -1,3 +1,0 @@
-distinct(["a", "b", "a", "c", "d", "b"])
-
-distinct(["management", "production", "development", "deployment", "development", "management"])

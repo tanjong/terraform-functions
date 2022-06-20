@@ -1,3 +1,0 @@
-compact(["a", "", "b", "c"])
-
-compact(["management", "production", "development", "deployment"])
