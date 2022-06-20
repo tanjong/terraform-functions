@@ -1,0 +1,7 @@
+element(list, index)
+
+element(["a", "b", "c"], 1)
+
+element(["a", "b", "c"], 3)
+
+element(["a", "b", "c"], 2)

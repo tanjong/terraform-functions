@@ -1,0 +1,3 @@
+merge({a="b", c="d"}, {e="f", c="z"}) : If more than one given map defines the same key, then the one that is later in the argument sequence takes precedence.
+
+merge({a="b"}, {a=[1,2], c="z"}, {d=3})

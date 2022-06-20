@@ -1,0 +1,5 @@
+split(separator, string) : a separator = , (replace/split function)
+
+split(",", "foo,bar,baz")
+
+split(",", "foo,bar,baz")

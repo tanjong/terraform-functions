@@ -1,0 +1,5 @@
+format("Hello, %s!", "Ander")
+
+format("Hello, %s!team", "Ander")
+
+format("Hello, %s team!", "Ander")

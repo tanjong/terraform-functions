@@ -1,0 +1,3 @@
+lower("HELLO")
+
+lower("ARREY")

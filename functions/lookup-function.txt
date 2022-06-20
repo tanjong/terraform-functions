@@ -1,0 +1,7 @@
+lookup(map, key, default) 
+
+lookup({a="ay", b="bee"}, "a", "what?") : a=ay : a map of string
+
+lookup({a="ay", b="bee"}, "c", "what?")
+
+lookup({a="ay", b="bee"}, "b", "what?") : it looks up the 1st value if its does not see it, it gives you the default value which is what?
